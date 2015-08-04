@@ -10,7 +10,7 @@ Probabilistic motif discovery
 -----------------------------
 
 This practical will help you understand concepts related to Motif discovery, 
-Gene ontology and statistical testing (BINF7000 only)
+Gene ontology and statistical testing (BINF7000 only).
 
 You will be writing your own python code, using pre-existing python modules 
 provided by the uqbinfpy library and providing written answers.
